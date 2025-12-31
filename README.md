@@ -1,6 +1,8 @@
 # Data Analytics Portfolio
 ## About
-I am a data analyst by profession, passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasetss into clear stories and actionable insights.y
+I am a data analyst by profession, passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasetss into clear stories and actionable insights.
+
+My focus is on building dashboards that get used, automating repetitive tasks, and creating models that help businesses plan for the future.
 
 ## Skills
 Data Visualization - Microsoft Power Bi, Microsoft Excel and SQL Basics
