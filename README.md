@@ -1,4 +1,4 @@
-# Data_Analytics_Portfolio
+# Data Analytics Portfolio
 ## About
 Hello, my name is Emmanuel. I am a data analyst by profession 
 
