@@ -3,7 +3,8 @@
 Hello, my name is Emmanuel. I am a data analyst by profession 
 
 ## Skills
-Data Visualization - Power Bi, Excel and SQL Basics
+Data Visualization - Microsoft Power Bi, Microsoft Excel and SQL Basics
+![Image] (IMG-20251231-WA0010.jpg)
 Data Analysis
 Business Analysis
 
