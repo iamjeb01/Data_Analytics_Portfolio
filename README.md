@@ -1,9 +1,14 @@
 # Data Analytics Portfolio
 ## About
-Hello, my name is Emmanuel. I am a data analyst by profession 
+I am a data analyst by profession, passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasetss into clear stories and actionable insights.y
 
 ## Skills
 Data Visualization - Microsoft Power Bi, Microsoft Excel and SQL Basics
+Data Analysis 
+Business Analysis
+Report writing
+
+## Project 
 ![Image](IMG-20251231-WA0010.jpg)
 ![Image](IMG_20251231_115118_196.jpg)
 ![Image](IMG_20251231_115221_029.jpg)
@@ -12,7 +17,3 @@ Data Visualization - Microsoft Power Bi, Microsoft Excel and SQL Basics
 ![Image](IMG_20251231_134716_574.png)
 I build dashboards and reporting visuals that helps stakeholders make quicker and faster decisions.[Click here](https://www.linkedin.com/posts/j-e-b-_powerbi-dataanalysis-businessintelligence-activity-7402041093938253824-TanU?utm_source=share&utm_medium=member_android&rcm=ACoAAE5V17QBHyROJsWC_mz_Utg1g2ExeZrd-C0) 
 [Click here](https://www.linkedin.com/posts/j-e-b-_powerbi-dataanalysis-datavisualization-activity-7398792550372859904-laTQ?utm_source=share&utm_medium=member_android&rcm=ACoAAE5V17QBHyROJsWC_mz_Utg1g2ExeZrd-C0)
-Data Analysis 
-Business Analysis
-
-## Project 
