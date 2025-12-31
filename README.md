@@ -8,6 +8,7 @@ Data Visualization - Microsoft Power Bi, Microsoft Excel and SQL Basics
 ![Image](IMG_20251231_115118_196.jpg)
 ![Image](IMG_20251231_115221_029.jpg)
 ![Image](IMG_20251231_115241_338.jpg)
+![Image](IMG_20251231_115137_726.jpg)
 Data Analysis
 Business Analysis
 
