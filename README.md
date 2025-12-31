@@ -31,5 +31,6 @@ I build dashboards and reporting visuals that helps stakeholders make quicker an
 [Click here](https://www.linkedin.com/posts/j-e-b-_powerbi-dataanalysis-datavisualization-activity-7398792550372859904-laTQ?utm_source=share&utm_medium=member_android&rcm=ACoAAE5V17QBHyROJsWC_mz_Utg1g2ExeZrd-C0)
 
 ## contact 
+Contact me for collaborations, freelance projects, or full-time opportunities. I’m always open to new challenges.
 Email: jebemmab@gmail.com 
 Phone: 2349165364999
