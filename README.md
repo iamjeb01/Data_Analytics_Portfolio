@@ -4,11 +4,14 @@ I am a data analyst by profession, passionate about helping businesses make sens
 
 ## Skills
 Data Visualization - Microsoft Power Bi, Microsoft Excel and SQL Basics
+
 Data Analysis 
+
 Business Analysis
+
 Report writing
 
-## Project 
+## Projects
 ![Image](IMG-20251231-WA0010.jpg)
 ![Image](IMG_20251231_115118_196.jpg)
 ![Image](IMG_20251231_115221_029.jpg)
