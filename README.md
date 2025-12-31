@@ -1,16 +1,22 @@
 # Data Analytics Portfolio
 ## About
 I am a data analyst who transforms complex and messy datasets into clear, actionable insights.
-This portfolio showcases my work in data cleaning, analysis, automation, and dashboard, with a focus on building solutions that support real-world business decisions.
+This portfolio showcases my work in data cleaning, analysis, automation, and dashboard visualization, with a focus on building solutions that support real-world business decisions.
 
 ## Skills
-Data Visualization - Microsoft Power Bi, Microsoft Excel and SQL Basics
+Data Analysis: Data cleaning, transformation, and exploratory analysis
 
-Data Analysis 
+SQL
 
-Business Analysis
+Power BI: Data modeling, DAX measures, Power Query, interactive dashboards
 
-Report writing
+Data Visualization: Designing clear, user-focused dashboards and reports
+
+Business Analytics: KPI definition, trend analysis, and insight generation
+
+Automation: Streamlining repetitive reporting and data workflows
+
+Communication: Translating data findings into clear, actionable insights
 
 ## Projects
 ![Image](IMG-20251231-WA0010.jpg)
