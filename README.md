@@ -32,5 +32,7 @@ I build dashboards and reporting visuals that helps stakeholders make quicker an
 
 ## contact 
 Contact me for collaborations, freelance projects, or full-time opportunities. I’m always open to new challenges.
+
 Email: jebemmab@gmail.com 
+
 Phone: 2349165364999
