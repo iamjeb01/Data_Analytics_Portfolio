@@ -30,3 +30,6 @@ Communication: Translating data findings into clear, actionable insights
 I build dashboards and reporting visuals that helps stakeholders make quicker and faster decisions.[Click here](https://www.linkedin.com/posts/j-e-b-_powerbi-dataanalysis-businessintelligence-activity-7402041093938253824-TanU?utm_source=share&utm_medium=member_android&rcm=ACoAAE5V17QBHyROJsWC_mz_Utg1g2ExeZrd-C0) 
 [Click here](https://www.linkedin.com/posts/j-e-b-_powerbi-dataanalysis-datavisualization-activity-7398792550372859904-laTQ?utm_source=share&utm_medium=member_android&rcm=ACoAAE5V17QBHyROJsWC_mz_Utg1g2ExeZrd-C0)
 
+## contact 
+Email: jebemmab@gmail.com 
+Phone: 2349165364999
