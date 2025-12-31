@@ -6,9 +6,11 @@ This portfolio showcases my work in data cleaning, analysis, automation, and das
 ## Skills
 Data Analysis: Data cleaning, transformation, and exploratory analysis
 
-SQL
+Microsoft Excel : Pivot Query, modeling and dashboard visualization
 
-Power BI: Data modeling, DAX measures, Power Query, interactive dashboards
+Microsoft Power BI: Data modeling, DAX measures, Power Query, interactive dashboards
+
+SQL Beginner 
 
 Data Visualization: Designing clear, user-focused dashboards and reports
 
